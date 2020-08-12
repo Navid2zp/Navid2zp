@@ -3,7 +3,6 @@
 
 I'm Navid (or you might know me as Reza). I am a full stack developer who loves creating new stuff that helps others in any way. I love learning new things specially new languages and tools. Feel free to contact me if you have an interesting project that might be usefull to others.
 
-🌐 Check out my website to see my projects: [Navid2zp.com](https://navid2zp.com) 
 
 My recent projects:
 
@@ -22,6 +21,7 @@ My recent projects:
     </a>
   </p>
   
+🌐 Check my website to see more of my projects: [Navid2zp.com](https://navid2zp.com) 
 
 ---
 
