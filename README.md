@@ -21,7 +21,7 @@ My recent projects:
     </a>
   </p>
   
-🌐 Check my website to see more of my projects: [Navid2zp.com](https://navid2zp.com) 
+🌐 Check my website for more info: [Navid2zp.com](https://navid2zp.com) 
 
 ---
 
