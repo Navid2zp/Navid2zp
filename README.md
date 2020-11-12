@@ -4,7 +4,7 @@
 I'm Navid (or you might know me as Reza). I am a full stack developer who loves creating new stuff that helps others in any way. I love learning new things specially new languages and tools. Feel free to contact me if you have an interesting project that might be usefull to others.
 
 
-My recent projects:
+**My recent projects:**
 
  <p align="center">
     <a href="https://arvix.cloud">
@@ -20,6 +20,11 @@ My recent projects:
       <img width="90" alt="dups" src="https://raw.githubusercontent.com/Navid2zp/Navid2zp/master/dups.png" />
     </a>
   </p>
+  
+**Articles**:
+
+- [Right, Wrong and Smart Way of Using ‘Else’](https://medium.com/swlh/right-and-wrong-times-to-use-else-e61eb7b6b04c)
+- [Private routes with React-router with render method](https://navid2zp.medium.com/private-routes-with-react-router-while-using-the-render-method-77534c11fa25)
   
 🌐 Check my website for more info: [Navid2zp.com](https://navid2zp.com) 
 
