@@ -30,4 +30,7 @@ I'm Navid (or you might know me as Reza). I am a full stack developer who loves 
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navid2zp&layout=compact" alt="Navid2zp" /> </p>
