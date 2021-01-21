@@ -30,4 +30,4 @@ I'm Navid (or you might know me as Reza). I am a full stack developer who loves 
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navid2zp&layout=compact" alt="Navid2zp" /> </p>
+<p align="center"> <img src="https://github-readme-stats-lilac-zeta.vercel.app/api/top-langs/?username=navid2zp&layout=compact&theme=dark" alt="Navid2zp" /> </p>
