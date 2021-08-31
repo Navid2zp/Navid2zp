@@ -1,10 +1,10 @@
 ### Hi there 👋
 ---
 
-I'm Navid (or you might know me as Reza). I am a full stack developer who loves creating new stuff that helps others in any way. I love learning new things specially new languages and tools. Feel free to contact me if you have an interesting project that might be usefull to others.
+I'm Navid (or you might know me as Reza). I am a software engineer who loves creating new stuff that helps others in any way. Feel free to contact me if you have an interesting project that might be usefull to others.
 
 
-**My recent projects:**
+**My projects:**
 
  <p align="center">
     <a href="https://arvix.cloud">
