@@ -4,7 +4,7 @@
 I'm Navid (or you might know me as Reza). I am a software engineer who loves creating new stuff that helps others in any way. Feel free to contact me if you have an interesting project that might be usefull to others.
 
 
-**<p align="center">Languages/Tools/Frameworks:</p>**
+**<p align="center">Languages/Tools/Frameworks</p>**
 
 <p align="center">
  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -22,7 +22,7 @@ I'm Navid (or you might know me as Reza). I am a software engineer who loves cre
  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-**<p align="center">Databases:</p>**
+**<p align="center">Database</p>**
 
 <p align="center">
  <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -32,7 +32,7 @@ I'm Navid (or you might know me as Reza). I am a software engineer who loves cre
 </p>
 
 
-**<p align="center">OS:</p>**
+**<p align="center">OS</p>**
 
 <p align="center">
  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -40,7 +40,7 @@ I'm Navid (or you might know me as Reza). I am a software engineer who loves cre
  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
-**<p align="center">Socials:</p>**
+**<p align="center">Social</p>**
 
 <p align="center">
  <a href="https://www.linkedin.com/in/navid2zp/">
