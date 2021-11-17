@@ -75,6 +75,7 @@ I'm Navid (or you might know me as Reza). I am a software engineer who loves cre
   
 **Articles**:
 
+- [Enhancing Detection of Steady-State Visual Evoked Potentials Using frequency and harmonics of that frequency in OpenVibe](https://www.sciencedirect.com/science/article/pii/S2667099221000220)
 - [Right, Wrong and Smart Way of Using ‘Else’](https://medium.com/swlh/right-and-wrong-times-to-use-else-e61eb7b6b04c)
 - [Private routes with React-router with render method](https://navid2zp.medium.com/private-routes-with-react-router-while-using-the-render-method-77534c11fa25)
  
